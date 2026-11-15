@@ -40,7 +40,7 @@ This was dreamt up as a method to allow **AI chatbots** to **automate** the **cr
 
 ## Installation
 
-1. Download [Builder.pts](https://github.com/kimmknight/PTBuilder/blob/main/Builder.pts)
+1. Download [Builder.pts](https://github.com/msrajhaan745-alt/cisco-stimulatior/blob/main/Builder.pts)
 
 2. In Packet Tracer, click **Exensions** > **Scripting** > **Configure PT Script Modules**
 
@@ -50,6 +50,6 @@ This was dreamt up as a method to allow **AI chatbots** to **automate** the **cr
 
 Once installed, you can open the code editor at any time by clicking **Extensions** > **Builder Code Editor**.
 
-## Documentation
 
-In the [Wiki](https://github.com/kimmknight/PTBuilder/wiki), you will find information on the available functions, as well as lists of usable devices, links, and modules.
+
+
